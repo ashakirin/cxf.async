@@ -1,0 +1,17 @@
+<ns:ListOfBooks xmlns:ns='http://types.sopware.org/demos/Library/Common/1.0'>
+   <Book>
+      <Title>SOPware in a Nutshell</Title>
+        <Author>
+         <PersonID>11111111111</PersonID>
+         <LastName>Sykes</LastName>
+         <FirstName>David A.</FirstName>
+         <TitleID>12345678901</TitleID>
+         <SalutationID>2</SalutationID>
+         <DateOfBirth>1970-01-01</DateOfBirth>
+         <EMail>d.skyes@tbd.com</EMail>
+      </Author>
+      <ISBN>1234567890</ISBN>
+      <Publisher>Addison Wesley</Publisher>
+      <Year_published>2006</Year_published>
+   </Book>
+</ns:ListOfBooks>
